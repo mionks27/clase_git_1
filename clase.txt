@@ -1,1 +1,2 @@
-Hola este es mi primer proyecto en git. Esta es la versión definitiva
+Hola este es mi primer proyecto en git.  Esta es la versión definitiva, pero tambien es una prueba para mi conflicto
+
